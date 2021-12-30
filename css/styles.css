@@ -1,0 +1,110 @@
+/*font-family: 'Lora', serif;*/
+/*font-family: 'Libre Franklin', sans-serif;*/
+
+body {font-family: 'Libre Franklin', sans-serif; font-weight: 200; font-size: 15px;}
+body, ul {margin:0; padding:0; }
+h1, h2 {font-family: 'Lora', serif;}
+.skills-list {font-family: 'Lora', serif; font-weight:600;}
+img {max-width: 100%;}
+
+
+
+.col-sm {padding-left: 30px;}
+.newexp {padding-left: 40px;}
+.experiment {padding-left: 90px;}
+ 
+nav {background-color: #CFE0F7; position:fixed; z-index: 1; width: 100%;}
+nav ul {margin: 0 auto; text-align: center; padding:30px;}
+nav ul li {display: inline-block; margin: 0 10px; padding: 0; text-transform: uppercase; font-weight: 400; font-size: 14px;}
+nav ul li a {text-decoration: none; color: black; font-weight: 500;}
+nav ul li a:hover {text-decoration: underline;}
+
+header {
+    position: relative;
+    top: 70px;
+    margin-bottom: 125px;
+    /* background-image: url(../img/background.png); */
+    background-color: #CFE0F7;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -220px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+h1{font-size: 35px; line-height: 140%;
+    margin-top: 35px;}
+h2 {font-size: 30px; line-height: 130%;}
+h1, h2 {font-weight: normal;}
+h1 {font-weight: 550;}
+p{line-height: 130%;}
+ul li{list-style: none; margin:10px 0;}
+.linkedinbutton {
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 15px 25px;
+    margin-top: 20px;
+    display: inline-block;
+    color: black;
+    border-radius: 25px;
+    font-weight: 500;
+}
+.linkedinbutton:hover {background:#2A2A2A; color: white; transition: background 0.5s ease-in-out, color 0.5s ease-in-out;}
+figcaption {font-size: 10px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.intro-img {
+    box-shadow: 1px 2px 30px rgb(0 0 0 / 20%);
+    height: 400px;
+    margin-left: 50px;
+	
+    margin-top: 10px;
+	margin-bottom: 20px; 
+	border-radius: 20px;
+}
+figure {margin:0 auto;}
+
+.skills-list {text-align: center; font-size: 25px; line-height: 130%; margin-bottom: 60px; margin-top:0px;}
+.nestedlist {font-size: 20px; font-weight: 300; line-height: 100%; font-family: 'Libre Franklin', sans-serif;}
+
+.project {
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.blue {background-color: #CFE0F7;}
+.project .linkedinbutton {margin-top:5px;}
+
+.tools {margin-top:50px;}
+
+footer {text-align: center;
+}
+footer h2 {font-size:16px; font-family: 'Libre Franklin', sans-serif; font-weight: 200; line-height: 30px; margin-bottom: 50px; margin-top: 50px;}
+
+.email {font-size: 25px; font-weight: 400; font-family: 'Lora', serif;}
+
+.right-alignment {text-align: right;}
+.viewotherprojects {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    display: inline-block;
+    color: black;
+    border-radius: 30px;
+}
+.viewotherprojects:hover {background:#2A2A2A; color: white;transition: background 0.5s ease-in-out, color 0.5s ease-in-out;}
+.CTA {
+    background-color: #CFE0F7;
+    padding-top: 50px;
+    padding-bottom: 2px;
+}
+
+.allimages {border-radius: 20px;  box-shadow: 1px 2px 30px rgb(0 0 0 / 20%);}
+.xyx {margin-top: 0px;}
+.lastfooter {background-color:#F5F4F4; margin-top: 0px; margin-bottom: 0px; padding-top: 5px; padding-bottom: 3px;}
+
